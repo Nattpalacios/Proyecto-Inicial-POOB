@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Route
+comment0.text=\r\n\ Esta\ clase\ crea\ las\ rutas\ que\ relacionan\ a\ las\ naciones.\r\n\ \r\n\ @author\ (Natalia\ Palacios\ and\ Jonatan\ Gonzalez)\ \r\n\ @version\ (27/09/2018)\r\n
+comment1.params=nations\ cost
+comment1.target=Route(java.lang.String[],\ int)
+comment1.text=\r\n\ Constructor\ de\ las\ rutas.\r\n\ \r\n\ @param\ nations.\ Indica\ las\ naciones\ que\ une\ la\ ruta.\r\n\ @param\ cost.\ Indica\ el\ costo\ para\ pasar\ por\ esa\ ruta.\r\n
+comment2.params=posX1\ posY1\ posX2\ posY2\ width\ height\ width2\ height2\ cost
+comment2.target=void\ shapeRoute(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ boolean)
+comment2.text=\r\n\ Asigna\ las\ medidas\ de\ las\ dos\ naciones\ que\ estaran\ relacionadas\ por\ la\ ruta.\r\n\ \r\n\ @param\ posX1.\ Valor\ posicion\ x\ de\ la\ nacion\ 1.\r\n\ @param\ posY1.\ Valor\ posicion\ y\ de\ la\ nacion\ 1.\r\n\ @param\ width.\ Valor\ ancho\ de\ la\ nacion\ 1.\r\n\ @param\ height.\ Valor\ alto\ de\ la\ nacion\ 1.\r\n\ @param\ posX2.\ Valor\ posicion\ x\ de\ la\ nacion\ 2.\r\n\ @param\ posY2.\ Valor\ posicion\ x\ de\ la\ nacion\ 2.\r\n\ @param\ width.\ Valor\ ancho\ de\ la\ nacion\ 2.\r\n\ @param\ height.\ Valor\ alto\ de\ la\ nacion\ 2.\r\n
+comment3.params=color
+comment3.target=void\ changeColor(java.lang.String)
+comment4.params=
+comment4.target=int\ getCostoRuta()
+comment5.params=
+comment5.target=java.lang.String[]\ getNations()
+comment6.params=
+comment6.target=void\ visible()
+comment6.text=\r\n\ Vuelve\ visible\ una\ ruta.\r\n
+comment7.params=
+comment7.target=void\ invisible()
+comment7.text=\r\n\ Vuelve\ invisible\ una\ ruta.\r\n
+numComments=8
